@@ -151,8 +151,13 @@ h4{
     margin-top: 5px;
 }
 
+image{
+    alt:Submit;
+     width:15px;
+      height:20px;
+}
+
 #footer {
-    /* position: fixed; */
     left: 0;
     bottom: 0px;
     width: 100%;
@@ -163,7 +168,6 @@ h4{
   }
 
   
-
 
 
 
